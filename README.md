@@ -6,5 +6,10 @@ Ender 5 CAD shamelessly mooched from https://grabcad.com/library/creality-ender-
 
 The Y axis is flipped, but the printed plastics have not changed. Requires some longer hardware and some extra printed braces.
 
+Different bits required (details to follow):
+* Longer bolts
+* longer pulleys
+* extra braces for motor mounts (Will upload CAD when I design them)
+
 Untested, and unfinished.
 -Shonky.
