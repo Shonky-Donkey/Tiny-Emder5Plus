@@ -10,6 +10,7 @@ Different bits required (details to follow):
 * Longer bolts
 * longer pulleys
 * extra braces for motor mounts (Will upload CAD when I design them)
+* will need two identical motors for AB motors. The ender X and Y motors are diferent, so you could try and sorce a single one of either. I'm personally probably just going to buy two matched motors. Probably whatever is used on the Voron 2
 
 Untested, and unfinished.
 -Shonky.
