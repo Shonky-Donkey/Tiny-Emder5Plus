@@ -19,6 +19,9 @@ Bit not required from the Tiny-M:
 * much of the extrusions
 * some of the hardware
 
+You are on your own for now with the extruder/hot end mount. Not sure what I am going to do yet. Maybe put the OEM Ender on for now. Will need to design or find CAD for that. ultimately might put an orbiter, Biqu H2, or Mellow NF-sunrise on.
+
+
 I'm going to build mine with the stock Ender 5 plus board and Raspberry Pi running Klipper. In theory you should be able to run almost any main board (BTT etc) with klipper, but if you do, you are own your own. Who knows if I can even figure out the config for myself... 
 
 Untested, and unfinished.
