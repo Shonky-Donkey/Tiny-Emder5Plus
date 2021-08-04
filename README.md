@@ -7,7 +7,7 @@ Ender 5 CAD shamelessly mooched from https://grabcad.com/library/creality-ender-
 The Y axis is flipped, but the printed plastics have not changed. Requires some longer hardware and some extra printed braces.
 
 Different bits required (details to follow):
-* Longer bolts
+* Longer bolts (Some of the M5x40 will need to be M5x60 because they now also have to pass through some of the 2020 extrusion to go into the end of the 2020 below.
 * longer pulleys
 * extra braces for motor mounts (Will upload CAD when I design them)
 * will need two identical motors for AB motors. The ender X and Y motors are diferent, so you could try and sorce a single one of either. I'm personally probably just going to buy two matched motors. Probably whatever is used on the Voron 2
