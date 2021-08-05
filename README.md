@@ -1,3 +1,4 @@
+
 # Tiny-Emder5Plus
 Core-XY topper for an ender 5+ built from the Tiny-M (V4) https://github.com/gsl12/Tiny-M 
 ![Tiny-Emder5_1](https://user-images.githubusercontent.com/88253304/128261054-d3563549-79d8-4654-bcef-58df6ae0884f.png)
@@ -23,6 +24,11 @@ You are on your own for now with the extruder/hot end mount. Not sure what I am 
 
 
 I'm going to build mine with the stock Ender 5 plus board and Raspberry Pi running Klipper. In theory you should be able to run almost any main board (BTT etc) with klipper, but if you do, you are own your own. Who knows if I can even figure out the config for myself... 
+
+
+![Tiny-Emder5_2](https://user-images.githubusercontent.com/88253304/128361120-4be30d8a-43f2-4d9f-8159-d41705b5a592.png)
+The linear rails could be mounted either on the top rail, with the X axis carriage flipped, or on the bottom rail, with the carriage running as it does on the tiny-m. HOWEVER... if it is mounted with the rails on the lower extrusions, the inner extrusions for the Z axis will need to be machined down. I've shown in the image below where it will foul. Having it in this configuration should result in a stiffer overall design though, as there is much more ridigity with the essentially 3x2020 profiles in an L shape here.
+![Tiny-Emder5_3](https://user-images.githubusercontent.com/88253304/128361130-9e390330-764f-4885-954e-613fd8093db2.png)
 
 Untested, and unfinished.
 
