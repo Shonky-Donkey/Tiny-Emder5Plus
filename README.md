@@ -11,7 +11,7 @@ Different bits required from the Tiny-M:
 * extra braces for motor mounts (Will upload CAD when I design them)
 * Some extra hardware for the braces. May be able to steal this from the ender 5.
 * will need two identical motors for AB motors. The ender X and Y motors are diferent, so you could try and sorce a single one of either. I'm personally probably just going to buy two matched motors. Probably whatever is used on the Voron 2
-* 2020 extrusion (with the 4-4.2mm holes as described in Tiny-M docs) - 2x 561mm and 1x498mm (to be confirmed if the CAD I have for the Ender is accurate)
+* 2020 extrusion (with the 4-4.2mm holes as described in Tiny-M docs) - 2x 561mm and 1x498mm (to be confirmed if the CAD I have for the Ender is accurate) One of these pieces could be repurposed from the exsting X carriage if you were feeling adventureous. 
 * MGN9 rail - 2x445mm(500mm if mounted on the upper extrusion and you want some extra travel distance for some reason) and 1x 438mm
 
 
