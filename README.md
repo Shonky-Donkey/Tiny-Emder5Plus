@@ -37,6 +37,10 @@ Belt routing and length:
 Motor mount brace:
 ![Tiny-Emder5_5](https://user-images.githubusercontent.com/88253304/128433596-3d758fa0-29d0-4bdf-9166-b91f9ce3ed5f.png)
 
+Klipper config changes needed:
+* Kinematics
+* Homing sequence for hard mounted X end stop
+
 
 Untested, and unfinished.
 
